@@ -24,8 +24,8 @@ namespace DesktopCalculatorAutomation.Tests
             Console.WriteLine("[DEBUG] Clicking button: =");
             calc.ClickButton("equalButton");
 
-            string? result = calc.GetResult();
-            Console.WriteLine("[DEBUG] Final Result: " + result);
+            string result = calc.GetResult();
+            Console.WriteLine("[DEBUG] Result retrieved: " + result);
 
             CloseApp();
         }
@@ -48,7 +48,7 @@ namespace DesktopCalculatorAutomation.Tests
             Console.WriteLine("[DEBUG] Clicking button: =");
             calc.ClickButton("equalButton");
 
-            string? result = calc.GetResult();
+            string result = calc.GetResult();
             Console.WriteLine("[DEBUG] Result retrieved: " + result);
 
             CloseApp();
@@ -72,7 +72,7 @@ namespace DesktopCalculatorAutomation.Tests
             Console.WriteLine("[DEBUG] Clicking button: =");
             calc.ClickButton("equalButton");
 
-            string? result2 = calc.GetResult();
+            string result2 = calc.GetResult();
             Console.WriteLine("[DEBUG] Result retrieved: " + result2);
 
             CloseApp();
