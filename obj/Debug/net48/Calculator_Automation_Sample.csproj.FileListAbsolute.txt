@@ -1,0 +1,5 @@
+C:\Users\sarahmanpri\Documents\Calculator_Automation_Sample\obj\Debug\net48\Calculator_Automation_Sample.csproj.AssemblyReference.cache
+C:\Users\sarahmanpri\Documents\Calculator_Automation_Sample\obj\Debug\net48\Calculator_Automation_Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarahmanpri\Documents\Calculator_Automation_Sample\obj\Debug\net48\Calculator_Automation_Sample.AssemblyInfoInputs.cache
+C:\Users\sarahmanpri\Documents\Calculator_Automation_Sample\obj\Debug\net48\Calculator_Automation_Sample.AssemblyInfo.cs
+C:\Users\sarahmanpri\Documents\Calculator_Automation_Sample\obj\Debug\net48\Calculator_Automation_Sample.csproj.CoreCompileInputs.cache
