@@ -24,7 +24,7 @@ namespace DesktopCalculatorAutomation.Pages
             Thread.Sleep(500);
         }
 
-        public string GetResult()
+        public string? GetResult()
         {
             var resultText = window.FindFirstDescendant(cf =>
                 cf.ByAutomationId("CalculatorResults"))?.AsLabel();

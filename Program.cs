@@ -10,6 +10,7 @@ class Program
         var test = new CalculatorTests();
         test.AddTwoNumbers();
         test.MultiplyTwoNumbers();
+        test.SubtractTwoNumbers();
     }
 }
 
