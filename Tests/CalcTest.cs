@@ -49,7 +49,7 @@ namespace DesktopCalculatorAutomation.Tests
             calc.ClickButton("equalButton");
 
             string result = calc.GetResult();
-            Console.WriteLine("[DEBUG] Result retrieved: " + result);
+            Console.WriteLine("[DEBUG] Result retrieved update: " + result);
 
             CloseApp();
         }
