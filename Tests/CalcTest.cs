@@ -39,7 +39,8 @@ namespace DesktopCalculatorAutomation.Tests
             Console.WriteLine("[DEBUG] Clicking button: 4");
             calc.ClickButton("num4Button");
 
-            Console.WriteLine("[DEBUG] Clicking button: *");
+            Console.WriteLine("[DEBUG] Clicking button1: *");
+            Console.WriteLine("[DEBUG] Clicking button1: *");
             calc.ClickButton("multiplyButton");
 
             Console.WriteLine("[DEBUG] Clicking button: 6");
